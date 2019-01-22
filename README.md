@@ -1,4 +1,5 @@
 # PizzaLab
+![pizza lab logo](./pizzalab.png)
 This is a **DialogFlow** Agent used like example for the Codelab made on 2018-09-25.
 
 The idea of this one is manage some entities and intents with a Fulfillment made with **Firebase Cloud Functions**.
